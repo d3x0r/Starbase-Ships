@@ -8,6 +8,7 @@ Decker's Ships; Donations are appreciated :).
 actual built version had to be manually modified; need to remove some thrusters(?).
 
 - Thrusters, generator, cockpit; how fast is the fastest thing?  *spoiler - depressingly slow compared to everything else*
+- 526,513kg, 15TMR
 
 ## Vigil-ResearchVessel.fbe (Vigil RV)
 
@@ -48,7 +49,7 @@ pilot in seat... (fails under high rotation rates in certain directions).
 - 6 ore collectors,
 - 4*24 (96) t2 box thrusters for main engines, 8 downup/down 8 left/right (16 roll).
 - 600km distance or so
-- 13M kg
+- 13M kg, 2.4TMR empty, 1.3 40k crate load.
 
 
 ## RingOfFire-RC1 
@@ -63,3 +64,10 @@ Ring Of Fire - dual ring of thusters (192)
 - 1500km distance empty
 - 16.5M kg; 6.2 TMR empty, 2.6 max load (no ore is max load in 1728v).
 - 60 min before replacing fuel rods (about 600k km at top speed)
+
+## Ring of Fire - First Build
+
+Actual build of fast, max part ring of fire ship; some of the thrusters are misnamed, multiple FCU's cause drastic issues in Real server...
+extra lag for controlling ship encountered... sort of figured things would stabilize; rapid acceleration causes radical jerks for no good reason (leverage of thrusters?)
+
+- Same as specs of RC1; added resource bridges, tried to separate engine rings to have separate scalars - even disable a ring entirely to save on fuel while mining.
