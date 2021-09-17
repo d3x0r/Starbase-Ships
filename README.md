@@ -71,3 +71,15 @@ Actual build of fast, max part ring of fire ship; some of the thrusters are misn
 extra lag for controlling ship encountered... sort of figured things would stabilize; rapid acceleration causes radical jerks for no good reason (leverage of thrusters?)
 
 - Same as specs of RC1; added resource bridges, tried to separate engine rings to have separate scalars - even disable a ring entirely to save on fuel while mining.
+
+
+## Ring of Fire - Fixed Engines
+
+The clone/rotate function of SSC ate one of the pipe segments on 2 engine blocks; this has that fixed - needs MFC fixed... I have a module for it- (version built for ticket)
+
+## Ring of Fire - V2 
+
+Alternate Balance - moves the CoM nearly 4m behind CoT; improved power system, manual/auto sweep mining, a couple different patterns for mining lasers firing order.
+
+Improved fuel capacity and 2x refuel available; prioritized battery management.
+
