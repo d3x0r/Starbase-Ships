@@ -65,6 +65,26 @@ To the left of the pilot is the script that controls that seats cruise/turtle se
 
 
 
+## Fuel Usage
+
+
+
+```
+207km   ?       103500L  63.69ML    28,000L fuel 7.81m  prop   ?      (overdrive)
+range: 1,908,322m(prop)   2214900(fuel)
+
+207km 32:40.87   82410L  57.314ML   21,090 fuel  6.376m prop  105m/s  (eco)
+range 2,337,515m  2,944,523
+
+212km 24:38.77   53353    48953     29,057L fuel 8.361m prop   143m/s (overdrive)
+range 1,825,618m  2,188,801m (fuel)
+
+                  11677     38,068,000
+212km  26:13      44,541.6  47,826,000 32864 fuel   9.758m  prop   134m/s (overdrive,full)
+range 1,564,254m
+```
+
+
 
 
 ## V1 Patch notes (todo)
@@ -79,5 +99,6 @@ To the left of the pilot is the script that controls that seats cruise/turtle se
 ## V2 Patch notes
 
 - one half of a battery bank isn't connected.
-- 2 or 3 other minor things were required?
+- button blink isn't also triggered with force state
+- 1 or 2 other minor things were required?
 
