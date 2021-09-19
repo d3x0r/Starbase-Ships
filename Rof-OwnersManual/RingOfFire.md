@@ -32,6 +32,7 @@ Mining Lasers are configured with `MLUD+`, `MLUD-` and `MLLR+` and `MLLR-` for c
 ### Mining Lever Settings
 
 `MLUD` (Mining Laser Up Down) is limited to only 30 degrees; it can go to 160, and mine outside the ship. 
+
 `MLLR` (Mining Laser Left Right) is limited to +/-45 degrees; any more and the lasers will cut into the ship itself; effective range for ring mining is +/-5 degrees; at 20m
 a small change makes a big difference.
 
