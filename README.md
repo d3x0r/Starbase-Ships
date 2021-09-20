@@ -83,3 +83,22 @@ Alternate Balance - moves the CoM nearly 4m behind CoT; improved power system, m
 
 Improved fuel capacity and 2x refuel available; prioritized battery management.
 
+[Owners Manual](Rof-OwnersManual/RingOfFire.md)
+
+
+
+## Dart - V1
+
+128M propellant, 21 thrusters, 7.1TMR
+
+![Dart](DartV1Side.jpg)
+![Dart](DartV1Top.jpg)
+
+## Dart 192
+
+Increases propellant slightly - realized I already had twice what I meant to have... 
+adding double again dropped the TMR to 5.35.
+
+192M propellant, 8 fuel chamber 8 generator, 21 thrusters, 6.1TMR
+
+
