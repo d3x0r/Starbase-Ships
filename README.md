@@ -83,7 +83,13 @@ Alternate Balance - moves the CoM nearly 4m behind CoT; improved power system, m
 
 Improved fuel capacity and 2x refuel available; prioritized battery management.
 
-[Owners Manual](Rof-OwnersManual/RingOfFire.md)
+- [Owners Manual](Rof-OwnersManual/RingOfFire.md)
+
+![Example Image](RingOfFire.jpg)
+![Example Image](RingOfFire-InFlight.jpg)
+
+
+
 
 
 
