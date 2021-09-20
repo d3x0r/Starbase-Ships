@@ -91,6 +91,10 @@ Improved fuel capacity and 2x refuel available; prioritized battery management.
 
 128M propellant, 21 thrusters, 7.1TMR
 
+![Dart](Dart-Plated-V1.jpg)
+
+### Initial version
+
 ![Dart](DartV1Side.jpg)
 ![Dart](DartV1Top.jpg)
 
