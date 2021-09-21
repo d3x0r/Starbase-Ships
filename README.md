@@ -112,3 +112,8 @@ adding double again dropped the TMR to 5.35.
 192M propellant, 8 fuel chamber 8 generator, 21 thrusters, 6.1TMR
 
 
+
+
+# Changelog
+
+- Ring of Fire(V2) Updated, strength factor 32; fixed missing pipe on thruster(R3), fixed flight status lockout, fixed fuel scripts, export x, y, z, speed variables from ISAN, shows estimated time to empty better.
