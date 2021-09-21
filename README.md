@@ -91,13 +91,18 @@ Improved fuel capacity and 2x refuel available; prioritized battery management.
 
 
 
-
-
 ## Dart - V1
 
-128M propellant, 21 thrusters, 7.1TMR
+- 128M propellant
+- 27 thrusters
+- 6.21TMR
+- 8 Fuel Chambers, 8 Generators
+- Avoidance Script
+- Origin Compass Script
+- Single Receiver ISAN
 
-![Dart](Dart-Plated-V1.jpg)
+![Dart](DartV1Cost.jpg)
+![Dart](DartV1-Internals.jpg)
 
 ### Initial version
 
