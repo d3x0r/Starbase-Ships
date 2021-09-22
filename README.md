@@ -93,13 +93,14 @@ Improved fuel capacity and 2x refuel available; prioritized battery management.
 
 ## Dart - V1
 
-- 128M propellant
-- 27 thrusters
+- 128M propellant (31 hours) (114M Excess propellant for 3 hour trip)
+- 27 thrusters 
 - 6.21TMR
-- 8 Fuel Chambers, 8 Generators
+- 8 Fuel Chambers, 8 Generators, 8 spare fuel rods (3 hours)
 - Avoidance Script
 - Origin Compass Script
 - Single Receiver ISAN
+- Smarter Battery Charge Script
 
 ![Dart](DartV1Cost.jpg)
 ![Dart](DartV1-Internals.jpg)
@@ -108,6 +109,12 @@ Improved fuel capacity and 2x refuel available; prioritized battery management.
 
 ![Dart](DartV1Side.jpg)
 ![Dart](DartV1Top.jpg)
+
+## Dart W - V1
+
+- Adds warp core, removes 32M propellant (96M) to keep TMR>6.
+
+![DartW](DartW-V1.jpg)
 
 ## Dart 192
 
@@ -122,3 +129,4 @@ adding double again dropped the TMR to 5.35.
 # Changelog
 
 - Ring of Fire(V2) Updated, strength factor 32; fixed missing pipe on thruster(R3), fixed flight status lockout, fixed fuel scripts, export x, y, z, speed variables from ISAN, shows estimated time to empty better.
+- Dart-V1 removed enhancers since speed is the only purpose of the thing; developed improved battery managment script.
