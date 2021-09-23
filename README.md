@@ -102,9 +102,16 @@ Improved fuel capacity and 2x refuel available; prioritized battery management.
 - Origin Compass Script
 - Single Receiver ISAN
 - Smarter Battery Charge Script
+- 310,000 (approx) credits
 
 ![Dart](DartV1Cost.jpg)
 ![Dart](DartV1-Internals.jpg)
+
+## Dart 7 
+
+- 32M Propellant(otherwise same as above, which might classify more as refueler)
+- 7 hours propellant, 3.5 hours fuel, with 1 set of replacemnt fuel rods.
+- 252,361 credits
 
 ### Initial version
 
@@ -114,6 +121,7 @@ Improved fuel capacity and 2x refuel available; prioritized battery management.
 ## Dart W - V1
 
 - Adds warp core, removes 32M propellant (96M) to keep TMR>6.
+- 410,000 (approx) credits
 
 ![DartW](DartW-V1.jpg)
 
@@ -133,3 +141,5 @@ adding double again dropped the TMR to 5.35.
 - Dart-V1 removed enhancers since speed is the only purpose of the thing; developed improved battery managment script.
 - Ring of Fire(v2) Updated, strength factor improved power script, added mining laser dropout at low battery.
 - Ring of Fire(Release1) Replaced power systems.  Added improved battery script, adds some weight from RC1.
+- Ring of Fire v2 added plating around moving parts... Dart - Connected resource ports
+- Added Dart 7
