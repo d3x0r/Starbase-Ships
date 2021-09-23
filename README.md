@@ -39,6 +39,25 @@ could be carried.
 - long distance
 - 4,891,903kg, 6.6 TMR empty, full is hard to measure
 
+## Ring of Fire
+
+This is a mining ship; it is meant to encompass and comsume asteroids.  It has the option of being a moon mining vessel also.
+Ring Of Fire - dual ring of thusters (192)
+
+
+- [Owners Manual](Rof-OwnersManual/RingOfFire.md)
+- 600 cargo crates
+- 24 mining lasers (96 weapon points)
+- 6 ore collectors,
+- 4*24 (96) t2 box thrusters for main engines, 8 downup/down 8 left/right (16 roll).
+- 1200km distance or so (3.5-4 hours propellant, 4-4.5 hours fuel)
+  - 72M Propellant
+  - 38 T2 Fuel Chambers, 78 (2*38+2) replacment fuel rods
+- 17.1M kg, 5.88TMR empty, 2.3TMR(40k crate load).
+- warp core
+- power systems to the front, center of thrust behind center of mass, mining lasers closer than V2.  Put power systems on top of ring for moon mining mode.
+- Turtle, Cruise; also Overdrive which enables both rings.
+
 ## RingOfFire-base
 
 Ring Of Fire - 1 ring of thrusters, and maneuvering thrusters, rough dual mode cockpit with beams to sense
@@ -52,25 +71,7 @@ pilot in seat... (fails under high rotation rates in certain directions).
 - 13M kg, 2.4TMR empty, 1.3 40k crate load.
 
 
-## RingOfFire-RC1 
 
-Ring Of Fire - dual ring of thusters (192)
-
-- 600 cargo crates
-- warp core
-- 24 mining lasers (100 weapon points)
-- 6 ore collectors,
-- 4*24 (96) t2 box thrusters for main engines, 8 downup/down 8 left/right (16 roll).
-- 1500km distance empty
-- 16.5M kg; 6.2 TMR empty, 2.6 max load (no ore is max load in 1728v).
-- 60 min before replacing fuel rods (about 600k km at top speed)
-
-## Ring of Fire - First Build
-
-Actual build of fast, max part ring of fire ship; some of the thrusters are misnamed, multiple FCU's cause drastic issues in Real server...
-extra lag for controlling ship encountered... sort of figured things would stabilize; rapid acceleration causes radical jerks for no good reason (leverage of thrusters?)
-
-- Same as specs of RC1; added resource bridges, tried to separate engine rings to have separate scalars - even disable a ring entirely to save on fuel while mining.
 
 
 ## Ring of Fire - Fixed Engines
@@ -80,7 +81,7 @@ The clone/rotate function of SSC ate one of the pipe segments on 2 engine blocks
 ## Ring of Fire - V2 
 
 Alternate Balance - moves the CoM nearly 4m behind CoT; improved power system, manual/auto sweep mining, a couple different patterns for mining lasers firing order.
-
+Power system behind crates/thrusters in the forward/ring direction, but on the underside for moon mining.
 Improved fuel capacity and 2x refuel available; prioritized battery management.
 
 - [Owners Manual](Rof-OwnersManual/RingOfFire.md)
@@ -128,5 +129,7 @@ adding double again dropped the TMR to 5.35.
 
 # Changelog
 
-- Ring of Fire(V2) Updated, strength factor 32; fixed missing pipe on thruster(R3), fixed flight status lockout, fixed fuel scripts, export x, y, z, speed variables from ISAN, shows estimated time to empty better.
+- Ring of Fire(V2) Updated, strength factor 32 (11 fully loaded, 17 half max load); fixed missing pipe on thruster(R3), fixed flight status lockout, fixed fuel scripts, export x, y, z, speed variables from ISAN, shows estimated time to empty better.
 - Dart-V1 removed enhancers since speed is the only purpose of the thing; developed improved battery managment script.
+- Ring of Fire(v2) Updated, strength factor improved power script, added mining laser dropout at low battery.
+- Ring of Fire(Release1) Replaced power systems.  Added improved battery script, adds some weight from RC1.
