@@ -132,6 +132,13 @@ adding double again dropped the TMR to 5.35.
 
 192M propellant, 8 fuel chamber 8 generator, 21 thrusters, 6.1TMR
 
+## Dart V2
+
+This Version revises the structure and makes the profile longer and thinner at the cost of some wasted thrust at opposing angles.
+
+- Doubles Fuel Chambers, lasts for 8 hours, 7.5 hours propellant.
+- 6.51TMR.
+
 
 
 
