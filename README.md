@@ -10,6 +10,15 @@ actual built version had to be manually modified; need to remove some thrusters(
 - Thrusters, generator, cockpit; how fast is the fastest thing?  *spoiler - depressingly slow compared to everything else*
 - 526,513kg, 15TMR
 
+## Vigil-mini.fbe 
+
+Revisted Mini ship frame.  20k assembly cost :)
+
+- Single receiver ISAN.
+- 4 T2 triangle thrusters - 7.2TMR.
+- no warp, no cargo, 2 hour propellant range 4 hour fuel range.
+- single generator
+
 ## Vigil-ResearchVessel.fbe (Vigil RV)
 
 Initial upgrade of vigil frame to support some utility, and beams to support rigid bolting of ore onto the sides (ore is 5:4 ratio of size, sortof).
