@@ -19,6 +19,8 @@ Revisted Mini ship frame.  20k assembly cost :)
 - no warp, no cargo, 2 hour propellant range 4 hour fuel range.
 - single generator
 
+![Ship Image](Vigil-mini.jpg)
+
 ## Vigil-ResearchVessel.fbe (Vigil RV)
 
 Initial upgrade of vigil frame to support some utility, and beams to support rigid bolting of ore onto the sides (ore is 5:4 ratio of size, sortof).
