@@ -161,4 +161,4 @@ This Version revises the structure and makes the profile longer and thinner at t
 - Ring of Fire(Release1) Replaced power systems.  Added improved battery script, adds some weight from RC1.
 - Ring of Fire v2 added plating around moving parts... Dart - Connected resource ports
 - Added Dart 7
-- Ring of Fire - Added emergency propellant refill switch; so a single (or pair) tank can be removed to be filled.  Fixed engine naming; add additional crosshair range finders.  Fixed some control sliders.  Fixed ISAN speed reference.
+- Ring of Fire - Added emergency propellant refill switch; so a single (or pair) tank can be removed to be filled.  Fixed engine naming; add additional crosshair range finders.  Fixed some control sliders.  Fixed ISAN speed reference.  Assign different `current` values for ore collectors.
