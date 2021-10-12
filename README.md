@@ -19,6 +19,12 @@ Revisted Mini ship frame.  20k assembly cost :)
 - no warp, no cargo, 2 hour propellant range 4 hour fuel range.
 - single generator
 
+## Vigil Mini (LD)
+
+- same as Vigil Mini, but replaces small propellant with large, and T1 Generators with T2.
+- 24 Hours range propellant, 12 hours fuel. (6,200,000m)
+- Added memory with target x/y/z to fly to, and chip to show distance to target.
+
 ![Ship Image](Vigil-mini.jpg)
 
 ## Vigil-ResearchVessel.fbe (Vigil RV)
